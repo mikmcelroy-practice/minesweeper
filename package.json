@@ -1,0 +1,17 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "I hate that I have to set up this stupid interspolition why can't ppl just upgrade their browsers jk I'm running chrome from like 3 years ago",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "author": "mikemcelroy",
+  "license": "ISC"
+}
